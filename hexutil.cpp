@@ -1,5 +1,3 @@
-#include "stdafx.h"
-
 #include "hexutil.h"
 
 unsigned char* write_to_hex(long long *values, int length) {
